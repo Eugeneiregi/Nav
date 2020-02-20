@@ -3,7 +3,7 @@ header img {
     margin-left: 40px;
 }
 body {
-    height: 125vh;
+    height: 230vh;
     background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg');
     background-size: cover;
     font-family: sans-serif;
@@ -42,4 +42,10 @@ header li a {
 }
 #story {
     display: none;
+  }
+  #click-one{
+      background-color:cyan;
+  }
+  #click-two{
+      background-color: gold;
   }
